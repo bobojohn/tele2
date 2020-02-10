@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import TariffOne from './components/Tarifs/TariffOne';
+import TarifList from './components/Tarifs/TarifList';
 
 function App() {
   return (
     <>
-    <TariffOne />
+    <TarifList />
     </>
   );
 }
